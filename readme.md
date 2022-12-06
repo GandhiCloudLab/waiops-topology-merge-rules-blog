@@ -1,8 +1,8 @@
-# Toplogy Merge Rules
+# Topology Merge Rules
 
 This document gives insights about Topology merge rules.
 
-The detailed documentation about defining merge rules is availabe in IBM documentation https://www.ibm.com/docs/en/cloud-paks/cloud-pak-watson-aiops/3.4.2?topic=elements-configuring-rules
+The detailed documentation about defining merge rules is available in IBM documentation https://www.ibm.com/docs/en/cloud-paks/cloud-pak-watson-aiops/3.4.2?topic=elements-configuring-rules
 
 
 ## 1. Kube Observer
@@ -19,7 +19,7 @@ The detailed documentation about defining merge rules is availabe in IBM documen
 4. There are 2 resources with `ilender-user`. Each observer created one resource.
 ![MergeRule](./images/image-004.png)
 
-5. Comparing the `ilender-user` properties created by 2 obseervers,
+5. Comparing the `ilender-user` properties created by 2 observers,
 ![MergeRule](./images/image-005.png)
 
 
